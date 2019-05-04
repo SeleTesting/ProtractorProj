@@ -1,0 +1,134 @@
+{"message":"Customer Login Button Present","level":"info"}
+{"message":"Manager Login Button Present","level":"info"}
+{"message":"~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~Testcase completed~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~","level":"info"}
+{"message":"Clicked Manager login","level":"info"}
+{"message":"Add Customer Present on Manager Home Page","level":"info"}
+{"message":"Open Account Present on Manager Home Page","level":"info"}
+{"message":"Customer Present on Manager Home Page","level":"info"}
+{"message":"~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~Testcase completed~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~","level":"info"}
+{"message":"Clicked Manager login","level":"info"}
+{"message":"Clicked Add customer","level":"info"}
+{"message":"entered Firstname","level":"info"}
+{"message":"last name entered","level":"info"}
+{"message":"Postcode enetered","level":"info"}
+{"message":"Added Customer","level":"info"}
+{"message":"pop up success Message displayed","level":"info"}
+{"message":"~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~Testcase completed~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~","level":"info"}
+{"message":"Clicked Manager login","level":"info"}
+{"message":"clicked Open Account","level":"info"}
+{"message":"Selected customer","level":"info"}
+{"message":"Doller selected","level":"info"}
+{"message":"Processed account ","level":"info"}
+{"message":"Pop-up window Success Message displayed","level":"info"}
+{"message":"~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~Testcase completed~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~","level":"info"}
+{"message":"Clicked Manager login","level":"info"}
+{"message":"clicked Open Account","level":"info"}
+{"message":"Selected customer","level":"info"}
+{"message":"Pound selected","level":"info"}
+{"message":"Processed account ","level":"info"}
+{"message":"Pop-up window Success Message displayed","level":"info"}
+{"message":"~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~Testcase completed~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~","level":"info"}
+{"message":"Clicked Manager login","level":"info"}
+{"message":"clicked Open Account","level":"info"}
+{"message":"Selected customer","level":"info"}
+{"message":"Rupee selected","level":"info"}
+{"message":"Processed account ","level":"info"}
+{"message":"Pop-up window Success Message displayed","level":"info"}
+{"message":"~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~Testcase completed~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~","level":"info"}
+{"message":"Clicked Manager login","level":"info"}
+{"message":"clicked Customer","level":"info"}
+{"message":"deleted Account","level":"info"}
+{"message":"~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~Testcase completed~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~","level":"info"}
+{"message":"Clicked Customer login","level":"info"}
+{"message":"Selected HarryPotter from dropdown","level":"info"}
+{"message":"login clicked","level":"info"}
+{"message":"~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~Testcase completed~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~","level":"info"}
+{"message":"Clicked Customer login","level":"info"}
+{"message":"Selected HarryPotter from dropdown","level":"info"}
+{"message":"Selected Customer Name displayed","level":"info"}
+{"message":"login clicked","level":"info"}
+{"message":"1004 a/c selected","level":"info"}
+{"message":"Account 1004 information displayed","level":"info"}
+{"message":"currrency displayed as dollar","level":"info"}
+{"message":"1005 a/c selected","level":"info"}
+{"message":"Account 1005 information displayed","level":"info"}
+{"message":"currrency displayed for 1005 a/c is Pound","level":"info"}
+{"message":"1006 a/c selected","level":"info"}
+{"message":"Account 1006 information displayed","level":"info"}
+{"message":"currrency displayed for 1005 a/c is Rupee","level":"info"}
+{"message":"~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~Testcase completed~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~","level":"info"}
+{"message":"Clicked Customer login","level":"info"}
+{"message":"Selected HarryPotter from dropdown","level":"info"}
+{"message":"Selected Customer Name displayed","level":"info"}
+{"message":"login clicked","level":"info"}
+{"message":"transaction clicked","level":"info"}
+{"message":"~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~Testcase completed~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~","level":"info"}
+{"message":"Clicked Customer login","level":"info"}
+{"message":"Selected HarryPotter from dropdown","level":"info"}
+{"message":"Selected Customer Name displayed","level":"info"}
+{"message":"login clicked","level":"info"}
+{"message":"1006 a/c selected","level":"info"}
+{"message":"deposit clicked","level":"info"}
+{"message":"Amount entered","level":"info"}
+{"message":"deposited money","level":"info"}
+{"message":"verified entered amount","level":"info"}
+{"message":"~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~Testcase completed~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~","level":"info"}
+{"message":"Clicked Customer login","level":"info"}
+{"message":"Selected HarryPotter from dropdown","level":"info"}
+{"message":"Selected Customer Name displayed","level":"info"}
+{"message":"login clicked","level":"info"}
+{"message":"1006 a/c selected","level":"info"}
+{"message":"transaction clicked","level":"info"}
+{"message":"~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~Testcase completed~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~","level":"info"}
+{"message":"Clicked Customer login","level":"info"}
+{"message":"Selected HarryPotter from dropdown","level":"info"}
+{"message":"Selected Customer Name displayed","level":"info"}
+{"message":"login clicked","level":"info"}
+{"message":"1006 a/c selected","level":"info"}
+{"message":"Withdraw clicked","level":"info"}
+{"message":"entered withdraw amount","level":"info"}
+{"message":"withdraw Submit button amount","level":"info"}
+{"message":"Validated error Message  :Transaction Failed. You can not withdraw amount more than the balance.","level":"error"}
+{"message":"~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~Testcase completed~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~","level":"info"}
+{"message":"Clicked Customer login","level":"info"}
+{"message":"Selected HarryPotter from dropdown","level":"info"}
+{"message":"Selected Customer Name displayed","level":"info"}
+{"message":"entered withdraw amount","level":"info"}
+{"message":"login clicked","level":"info"}
+{"message":"1006 a/c selected","level":"info"}
+{"message":"Withdraw clicked","level":"info"}
+{"message":"withdraw Submit button amount","level":"info"}
+{"message":"Validated withdrwal amount :Transaction successful displayed","level":"info"}
+{"message":"~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~Testcase completed~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~","level":"info"}
+{"message":"Clicked Customer login","level":"info"}
+{"message":"Selected HarryPotter from dropdown","level":"info"}
+{"message":"Selected Customer Name displayed","level":"info"}
+{"message":"verified updated row","level":"info"}
+{"message":"login clicked","level":"info"}
+{"message":"1006 a/c selected","level":"info"}
+{"message":"transaction clicked","level":"info"}
+{"message":"~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~Testcase completed~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~","level":"info"}
+{"message":"Clicked Customer login","level":"info"}
+{"message":"Selected HarryPotter from dropdown","level":"info"}
+{"message":"Selected Customer Name displayed","level":"info"}
+{"message":"reset button clicked","level":"info"}
+{"message":"login clicked","level":"info"}
+{"message":"1006 a/c selected","level":"info"}
+{"message":"transaction clicked","level":"info"}
+{"message":"~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~Testcase completed~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~","level":"info"}
+{"message":"Clicked Customer login","level":"info"}
+{"message":"Selected HarryPotter from dropdown","level":"info"}
+{"message":"Selected Customer Name displayed","level":"info"}
+{"message":"Back  button clicked","level":"info"}
+{"message":"login clicked","level":"info"}
+{"message":"1006 a/c selected","level":"info"}
+{"message":"transaction clicked","level":"info"}
+{"message":"Selected Customer Name displayed","level":"info"}
+{"message":"~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~Testcase completed~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~","level":"info"}
+{"message":"Clicked Customer login","level":"info"}
+{"message":"Selected HarryPotter from dropdown","level":"info"}
+{"message":"Selected Customer Name displayed","level":"info"}
+{"message":"Customer Login Button Present","level":"info"}
+{"message":"login clicked","level":"info"}
+{"message":"Logout clicked","level":"info"}
+{"message":"~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~Testcase completed~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~","level":"info"}

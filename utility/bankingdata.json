@@ -1,0 +1,17 @@
+{
+"url":"http://www.way2automation.com/angularjs-protractor/banking/#/login",
+"deposit":{
+"amt":2000,
+"amt1":"2000"
+},
+"withdraw":{
+    "amt":2001,
+    "amt2":1000,
+    "amt3":"1000"
+},
+"formdata":{
+    "fname":"Tom",
+    "lname":"H",
+    "Postcode":"8711"
+}
+}
